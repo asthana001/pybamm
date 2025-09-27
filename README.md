@@ -1,4 +1,4 @@
-# PyBAMM Cell Modeling
+# PyBaMM Cell Modeling
 
 Welcome to my collection of battery cell modeling projects! This repository serves as my personal playground and learning space for exploring the capabilities of PyBAMM (Python Battery Mathematical Modelling), an open-source library for the simulation of lithium-ion batteries.
 

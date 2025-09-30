@@ -7,12 +7,8 @@ Here, you'll find various examples, from fundamental models to more complex simu
 ## About This Repository
 The goal of this repository is to document my journey in learning and applying battery simulation techniques. Each folder or file represents a specific practice case, model, or feature exploration within the PyBAMM framework.
 
-This includes implementations of standard models like:
+This includes simulations based on:
 
-* Doyle-Fuller-Newman (DFN) model
+* Doyle-Fuller-Newman (DFN), Single Particle (SPM) and Single Particle Model with electrolyte (SPMe) models.
 
-* Single Particle Model (SPM)
-
-* Single Particle Model with electrolyte (SPMe)
-
-* And various other experiments and parameter studies.
+* Degdradation mechanisms like SEI layer growth and Li-plating.

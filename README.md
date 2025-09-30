@@ -12,7 +12,7 @@ The goal of this repository is to document my journey in learning and applying b
 ## Repository Structure
 
 
-### [`my_tuts/`](my_tuts/) - Core PyBaMM Learning Tutorials
+### [`my_tuts/`](my_tuts/) - PyBaMM Learning Tutorials
 
 | File | Description |
 |------|-------------|
@@ -28,12 +28,12 @@ The goal of this repository is to document my journey in learning and applying b
 
 ---
 
-### [`practice/`](practice/) - Jupyter Notebook Practice
+### [`practice/`](practice/) - PyBaMM Practice Simulations
 
 | File | Description |
 |------|-------------|
 | [`practice1.ipynb`](practice/practice1.ipynb) | Comparison of different SEI (Solid Electrolyte Interphase) models and their impact on SEI thickness and lithium inventory loss |
-| [`practice2.ipynb`](practice/practice2.ipynb) | Comparison of lithium plating models (none, reversible, irreversible, partially reversible) using OKane2022 parameters |
+| [`practice2.ipynb`](practice/practice2.ipynb) | Comparison of lithium plating models using OKane2022 parameters |
 | [`practice3.ipynb`](practice/practice3.ipynb) | Study of State of Charge (SoC) effects on CCCV charging curves for fully charged, half charged, and empty batteries |
 
 ---

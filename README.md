@@ -12,3 +12,6 @@ This includes simulations based on:
 * Doyle-Fuller-Newman (DFN), Single Particle (SPM) and Single Particle Model with electrolyte (SPMe) models.
 
 * Degdradation mechanisms like SEI layer growth and Li-plating.
+
+## Matlab ODE/PDE problems
+The matlab_tuts folder containts practice ODE/PDE problesms.

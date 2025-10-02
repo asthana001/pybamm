@@ -49,6 +49,7 @@ The goal of this repository is to document my journey in learning and applying b
 | [`pde.ipynb`](matlab_tut/pde.ipynb) | Basic PDE solving exercises and examples in MATLAB |
 | [`pde_diffusion.ipynb`](matlab_tut/pde_diffusion.ipynb) | Diffusion PDE problems in MATLAB |
 | [`pde_heat.ipynb`](matlab_tut/pde_heat.ipynb) | Heat transfer PDE problems |
+| [`pdetb.ipynb`](matlab_tut/pdetb.ipynb) | Basic 2D PDE solving using PDE Toolbox Code |
 
 ---
 

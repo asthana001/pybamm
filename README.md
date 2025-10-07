@@ -28,14 +28,14 @@ The goal of this repository is to document my journey in learning and applying b
 
 ---
 
-### [`practice/`](practice/) - PyBaMM Practice Simulations
+### [`projects/`](projects/) - PyBaMM Simulations
 
 | File | Description |
 |------|-------------|
-| [`practice1.ipynb`](practice/practice1.ipynb) | Comparison of different SEI (Solid Electrolyte Interphase) models and their impact on SEI thickness and lithium inventory loss |
-| [`practice2.ipynb`](practice/practice2.ipynb) | Comparison of lithium plating models using OKane2022 parameters |
-| [`practice3.ipynb`](practice/practice3.ipynb) | Study of State of Charge (SoC) effects on CCCV charging curves for fully charged, half charged, and empty batteries |
-| [`practice4.ipynb`](practice/practice4.ipynb) | Study interaction of different degradation mechanism with each other |
+| [`sei_mechanisms.ipynb`](projects/sei_mechanisms.ipynb) | Comparison of different SEI (Solid Electrolyte Interphase) models and their impact on SEI thickness and lithium inventory loss |
+| [`li-plating_mechanisms.ipynb`](projects/li-plating_mechanisms.ipynb) | Comparison of lithium plating models using OKane2022 parameters |
+| [`soc_cccv.ipynb`](projects/soc_cccv.ipynb) | Study of State of Charge (SoC) effects on CCCV charging curves for fully charged, half charged, and empty batteries |
+| [`coupled_degradation.ipynb`](projects/coupled_degradation.ipynb) | Study interaction of different degradation mechanism with each other |
 
 ---
 

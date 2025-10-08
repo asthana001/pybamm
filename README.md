@@ -36,6 +36,7 @@ The goal of this repository is to document my journey in learning and applying b
 | [`li-plating_mechanisms.ipynb`](projects/li-plating_mechanisms.ipynb) | Comparison of lithium plating models using OKane2022 parameters |
 | [`soc_cccv.ipynb`](projects/soc_cccv.ipynb) | Study of State of Charge (SoC) effects on CCCV charging curves for fully charged, half charged, and empty batteries |
 | [`coupled_degradation.ipynb`](projects/coupled_degradation.ipynb) | Study interaction of different degradation mechanism with each other |
+| [`sei_on_crack.ipynb`](projects/sei_on_crack.ipynb) | Combining SEI and particle cracking to study degradation |
 
 ---
 
